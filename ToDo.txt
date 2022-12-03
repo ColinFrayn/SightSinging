@@ -1,0 +1,19 @@
+ToDo for SightSinging App
+-------------------------
+
+: Misc
+- Make sure last note gets de-highlighted (and stops sounding) when it has stopped playing
+- Add double sharps/flats for highest difficulty levels
+- Maybe sometimes prefer sharp instead of natural e.g. for B# instead of C-natural if key is e.g. F#maj
+- Replace notes with pictures instead of graphics
+- Button to play root chord / scale for cue?
+- User can adjust the number of notes
+
+------
+Notes:
+
+Midi Project:
+https://www.codeproject.com/articles/6228/c-midi-toolkit
+https://github.com/tebjan/Sanford.Multimedia.Midi
+
+Note IDs: 60 = Middle C, +/- semitones
